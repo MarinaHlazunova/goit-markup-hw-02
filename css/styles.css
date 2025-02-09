@@ -58,7 +58,7 @@ p {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logo-style {
+.logo-style-header {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -99,6 +99,9 @@ p {
 .hero {
   background: #2e2f42;
 }
+.hero-title {
+  color: #ffffff;
+}
 .hero-btn {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -120,6 +123,9 @@ p {
   background-color: #ffffff;
 }
 .portfolio {
+  background-color: #f4f4fd;
+}
+.sec-portfolio-ul {
   background-color: #f4f4fd;
 }
 .sec-portfolio-title {
