@@ -79,8 +79,10 @@ p {
 .header-item-list:focus {
   color: #404bbf;
 }
-.address {
+.header-address {
   font-style: normal;
+}
+.address {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
