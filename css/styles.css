@@ -115,9 +115,30 @@ p {
 .hero-btn:focus {
   background: #404bbf;
 }
+.sec-our-team {
+  background-color: #f4f4fd;
+}
 .our-team-title {
   text-align: center;
   text-transform: capitalize;
+}
+.sec-our-team-name {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.sec-our-team-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
 }
 .sec-our-team-li {
   background-color: #ffffff;
