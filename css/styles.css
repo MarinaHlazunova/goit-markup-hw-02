@@ -140,6 +140,10 @@ p {
   text-align: center;
   color: #434455;
 }
+.sec-our-team-ul {
+  background-color: #ffffff;
+}
+
 .sec-our-team-li {
   background-color: #ffffff;
 }
