@@ -122,7 +122,7 @@ p {
   text-align: center;
   text-transform: capitalize;
 }
-.sec-our-team-name {
+.sec-our-name {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -131,7 +131,7 @@ p {
   text-align: center;
   color: #2e2f42;
 }
-.sec-our-team-text {
+.sec-our-text {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
