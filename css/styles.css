@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
-  color: #fff;
+  color: #434455;
+  background-color: #ffffff;
 }
 a {
   text-decoration: none;
@@ -19,6 +20,7 @@ h1 {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 h2,
 h3 {
@@ -51,7 +53,7 @@ p {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -90,7 +92,8 @@ p {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address:hover {
+.address:hover,
+.address:focus {
   color: #404bbf;
 }
 .hero {
@@ -105,9 +108,29 @@ p {
   color: #fff;
   background: #4d5ae5;
 }
-.hero-btn:hover {
+.hero-btn:hover,
+.hero-btn:focus {
   background: #404bbf;
 }
+.our-team-title {
+  text-align: center;
+  text-transform: capitalize;
+}
+.sec-our-team-li {
+  background-color: #ffffff;
+}
+.portfolio {
+  background-color: #f4f4fd;
+}
+.sec-portfolio-title {
+  text-align: center;
+  text-transform: capitalize;
+}
+.sec-portfolio-title {
+  text-align: center;
+  text-transform: capitalize;
+}
+
 .footer {
   background: #2e2f42;
 }
@@ -123,7 +146,7 @@ p {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
